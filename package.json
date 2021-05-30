@@ -1,0 +1,24 @@
+{
+  "name": "reactbyfarhad",
+  "version": "0.0.1",
+  "description": "learn react by farhad",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react.dom": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agustriadji/reactbyfarhad.git"
+  },
+  "author": "agus triadji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agustriadji/reactbyfarhad/issues"
+  },
+  "homepage": "https://github.com/agustriadji/reactbyfarhad#readme"
+}
